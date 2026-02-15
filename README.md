@@ -1,3 +1,6 @@
+<div>
+    <img src="github-snake.svg">
+</div>
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
