@@ -1,7 +1,7 @@
 <div>
     <img src="github-snake.svg">
 </div>
-## Hi there 👋
+# Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
